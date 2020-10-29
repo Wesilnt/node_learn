@@ -1,0 +1,20 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "loadsh": "^0.0.4",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "order": "node ./order.js",
+    "script": "node ./run_script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
