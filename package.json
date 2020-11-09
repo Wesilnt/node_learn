@@ -12,8 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "order": "node ./order.js",
-    "script": "node ./run_script.js"
+    "order": "node ./order.js"
   },
   "author": "",
   "license": "ISC"
